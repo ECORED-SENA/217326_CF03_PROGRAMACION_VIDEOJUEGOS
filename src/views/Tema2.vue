@@ -5,7 +5,37 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Periféricos para videojuegos
+
+
+    .tarjeta.px-4.py-1.color-acento-contenido.mb-5
+      .row.align-items-center
+        .col-auto
+          img(src='@/assets/curso/temas/21.svg').mx-auto
+        .col
+          p.mb-0 La industria del juego y la tecnología ha evolucionado significativamente en los últimos años. Hoy en día, los videojuegos tienen como característica ser más inmersivos e interactivos. A medida que avanza la tecnología, también lo hacen los periféricos que la acompañan.
+
+    p.mb-5 Desde controladores de alta tecnología hasta cascos de realidad virtual, los periféricos para juegos se han vuelto esenciales para la experiencia de juego sin importar el nivel del jugador. Entre ellos destaca:
+
+    .bg-7.mn.adorno.px-5.pb-5
+      .adorno--1: img(src='@/assets/curso/temas/adorno1.png', alt='')
+      .contenido
+
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Leyenda del video
+
+        p.mb-5 Se debe considerar los siguientes elementos al momento de desarrollar el videojuego:
+
+
+        .row.justify-content-center.mb-5
+          .col-lg-10
+            figura
+              img(src='@/assets/curso/temas/22.png', alt='').mx-auto
+
+
+        p Si el videojuego que se quiere construir tiene como esencia ser orientada a Realidad Virtual, aumentada o Mixta igualmente debe considerarse las diferentes marcas y tecnologías disponibles en el mercado que permitan al usuario tener una buena experiencia en el momento de utilizar este tipo de tecnologías.
 
 </template>
 
@@ -26,4 +56,11 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.bg-7
+  background-image: url('../assets/curso/temas/bg-7b.png')
+  background-position: 100%
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: top
+</style>
