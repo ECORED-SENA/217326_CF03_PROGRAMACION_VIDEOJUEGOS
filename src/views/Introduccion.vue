@@ -10,8 +10,8 @@
       h1 Introducción
 
     .mn.bg-intro.px-5
-      p.mb-4 Estimado aprendiz bienvenido al componente formativo “APIs de videojuegos y repositorios” Para comenzar, le invitamos a ingresar al siguiente video para obtener más información:
-      figure.p-5
+      p.mb-lg-4 Estimado aprendiz bienvenido al componente formativo “APIs de videojuegos y repositorios” Para comenzar, le invitamos a ingresar al siguiente video para obtener más información:
+      figure.p-lg-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video
@@ -27,9 +27,10 @@ export default {
 </script>
 
 <style lang="sass">
-.bg-intro
-  background-image: url('../assets/curso/temas/bg-intro.svg')
-  background-position: 100%
-  background-repeat: no-repeat
-  background-size: cover
+@media (min-width: $bp-min-lg)
+  .bg-intro
+    background-image: url('../assets/curso/temas/bg-intro.svg')
+    background-position: 100%
+    background-repeat: no-repeat
+    background-size: cover
 </style>

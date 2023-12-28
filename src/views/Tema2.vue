@@ -26,13 +26,15 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Video: Leyenda del video
 
-        p.mb-5 Se debe considerar los siguientes elementos al momento de desarrollar el videojuego:
+        p.mb-5.mt-5 Se debe considerar los siguientes elementos al momento de desarrollar el videojuego:
 
 
         .row.justify-content-center.mb-5
-          .col-lg-10
-            figura
+          .col-xl-10
+            figura.d-none.d-lg-block
               img(src='@/assets/curso/temas/22.png', alt='').mx-auto
+            figura.d-lg-none
+              img(src='@/assets/curso/temas/22b.png', alt='').mx-auto
 
 
         p Si el videojuego que se quiere construir tiene como esencia ser orientado a Realidad Virtual, aumentada o mixta, igualmente debe considerarse las diferentes marcas y tecnologías disponibles en el mercado que permitan al usuario tener una buena experiencia en el momento de utilizarlas.
@@ -57,10 +59,11 @@ export default {
 </script>
 
 <style lang="sass">
-.bg-7
-  background-image: url('../assets/curso/temas/bg-7b.png')
-  background-position: 100%
-  background-repeat: no-repeat
-  background-size: cover
-  background-position: top
+@media (min-width: $bp-min-lg)
+  .bg-7
+    background-image: url('../assets/curso/temas/bg-7b.png')
+    background-position: 100%
+    background-repeat: no-repeat
+    background-size: cover
+    background-position: top
 </style>
