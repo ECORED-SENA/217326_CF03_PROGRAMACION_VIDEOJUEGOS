@@ -146,7 +146,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF03_217326_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -312,8 +312,20 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Carmen Alicia Martinez Torres ',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada ',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
