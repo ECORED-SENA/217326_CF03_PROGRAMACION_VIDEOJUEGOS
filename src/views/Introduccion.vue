@@ -13,8 +13,8 @@
       p.mb-lg-4 Estimado aprendiz bienvenido al componente formativo “APIs de videojuegos y repositorios” Para comenzar, le invitamos a ingresar al siguiente video para obtener más información:
       figure.p-lg-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/tk80Xy6lcWY?si=SIEZFkPSEvP3PMfI" title="APIs de videojuegos y repositorios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video:APIs de videojuegos y repositorios
 </template>
 
 <script>

@@ -23,8 +23,8 @@
 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Leyenda del video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/W9MFdkn8Clc?si=HGoPrtBBAgJGZffh" title="Periféricos para videojuegos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Periféricos para videojuegos
 
         p.mb-5.mt-5 Se debe considerar los siguientes elementos al momento de desarrollar el videojuego:
 
