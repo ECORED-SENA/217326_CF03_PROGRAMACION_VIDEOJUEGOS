@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'API de videojuegos y repositorios',
     descripcionCurso:
-      'Durante el desarrollo de este componente formativo, el aprendiz aprenderá los conceptos de API y su relación con el desarrollo de videojuegos. Asimismo, conocerá cuále s son los dispositivos que se pueden utilizar como entrada y/o salida para que el usuario interactúe con ellos. Además, como tema final, se explicará qué es el versionamiento en software y cómo se manejan los repositorios basados en GIT.',
+      'Durante el desarrollo de este componente formativo, el aprendiz aprenderá los conceptos de API y su relación con el desarrollo de videojuegos. Asimismo, conocerá cuáles son los dispositivos que se pueden utilizar como entrada y/o salida para que el usuario interactúe con ellos. Además, como tema final, se explicará qué es el versionamiento en <i>software</i> y cómo se manejan los repositorios basados en GIT.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -164,7 +164,7 @@ export default {
     {
       tema: 'Sistemas Operativos',
       referencia:
-        'ElSalondeInformatica. (2021, febrero 18). SISTEMAS OPERATIVOS | ¿Que son?¿Como Funcionan? | TIPOS de SISTEMAS OPERATIVOS | Explicación Facil. Youtube.',
+        'El Salón de Informática. (2021, febrero 18). Sisemas operativos | ¿Qué son?¿Cómo Funcionan? | Tipos de Sistemas Operativos | Explicación Fácil.  YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=fsuroRYmagw',
     },
@@ -178,7 +178,7 @@ export default {
     {
       tema: 'Periféricos videojuegos',
       referencia:
-        'YANPOL (s.f). Accesorios que DEBES TENER EN TU SETUP. Youtube.',
+        'YANPOL (s.f). Accesorios que debes tener en tu setup. Youtube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/playlist?list=PLsdJhEyi2JJCB0TWpvoSmxI4rP19kOMx6',
@@ -203,7 +203,7 @@ export default {
     {
       termino: 'API',
       significado:
-        'es una abreviatura de <em>Application Programming Interfaces</em>, que en español significa interfaz de programación de aplicaciones. Se trata de un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el <em>software</em> de las aplicaciones, permitiendo la comunicación entre dos aplicaciones de software a través de un conjunto de reglas.',
+        'es una abreviatura de <em>Application Programming Interfaces</em>, que en español significa interfaz de programación de aplicaciones. Se trata de un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el <em>software</em> de las aplicaciones, permitiendo la comunicación entre dos aplicaciones de <em>software</em> a través de un conjunto de reglas.',
     },
     {
       termino: 'Dispositivo de Escritorio (Informática)',
@@ -213,7 +213,7 @@ export default {
     {
       termino: 'Dispositivo Móvil (Informática)',
       significado:
-        'es un pequeño dispositivo de computación portátil que generalmente incluye una pantalla y un método de entrada (ya sea táctil o teclado en miniatura). Muchos dispositivos móviles tienen sistemas operativos que pueden ejecutar aplicaciones. Las aplicaciones hacen posible para los dispositivos móviles y teléfonos celulares se utilicen como dispositivos para juegos, reproductores multimedia, calculadoras, navegadores, etc.',
+        'es un pequeño dispositivo de computación portátil que generalmente incluye una pantalla y un método de entrada (ya sea táctil o teclado en miniatura). Muchos dispositivos móviles tienen sistemas operativos que pueden ejecutar aplicaciones. Las aplicaciones hacen posible que los dispositivos móviles y teléfonos celulares se utilicen como dispositivos para juegos, reproductores multimedia, calculadoras, navegadores, etc.',
     },
     {
       termino: 'GIT',
@@ -223,7 +223,7 @@ export default {
     {
       termino: 'Librería <em>(Software)</em>',
       significado:
-        'es un conjunto de archivos que se utiliza para desarrollar software. Suele estar compuesta de código y datos, y su fin es ser utilizada por otros programas de forma totalmente autónoma.',
+        'es un conjunto de archivos que se utiliza para desarrollar<em>software</em>. Suele estar compuesta de código y datos, y su fin es ser utilizada por otros programas de forma totalmente autónoma.',
     },
     {
       termino: 'Motor de Videojuegos',
@@ -233,7 +233,7 @@ export default {
     {
       termino: 'Página web',
       significado:
-        'se conoce como página Web, página electrónica o página digital a un documento digital de carácter multimediático (es decir, capaz de incluir audio, video, texto y sus combinaciones), adaptado a los estándares de la World Wide Web (WWW) y a la que se puede acceder a través de un navegador Web y una conexión activa a Internet. Se trata del formato básico de contenidos en la red.',
+        'se conoce como página Web, página electrónica o página digital a un documento digital de carácter multimediático (es decir, capaz de incluir audio, video, texto y sus combinaciones), adaptado a los estándares de la <em>World Wide Web</em> (WWW) y a la que se puede acceder a través de un navegador Web y una conexión activa a Internet. Se trata del formato básico de contenidos en la red.',
     },
     {
       termino: 'Periférico',
@@ -243,7 +243,7 @@ export default {
     {
       termino: 'Sistema Operativo',
       significado:
-        'es el programa encargado de administrar y gestionar de manera eficiente todos los recursos de un ordenador y otros dispositivos. También se le conoce como software de sistema, y su función comienza nada más encender el dispositivo en el que están instalados.',
+        'es el programa encargado de administrar y gestionar de manera eficiente todos los recursos de un ordenador y otros dispositivos. También se le conoce como <em>software</em> de sistema, y su función comienza nada más encender el dispositivo en el que están instalados.',
     },
   ],
   referencias: [
@@ -253,7 +253,7 @@ export default {
     },
     {
       referencia:
-        'Lopez Sandoval, Carlo (2022). UNITY aprende a desarrollar videojuegos. Edicion Actualizada a Unity 2022.',
+        'López Sandoval, Carlo (2022). UNITY aprende a desarrollar videojuegos. Edición Actualizada a Unity 2022.',
       link: '',
     },
     {

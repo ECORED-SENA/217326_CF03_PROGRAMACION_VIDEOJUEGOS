@@ -12,7 +12,7 @@
         .row.justify-content-center.align-items-center
 
           .col-lg-7.mb-lg-0.mb-3
-            p.mb-0 Los sistemas operativos, las API y las librerías son componentes esenciales en el ámbito de la informática y la programación. Los sistemas operativos, como Windows, macOS o Linux, son fundamentales para gestionar los recursos del hardware y proporcionar una interfaz entre los usuarios y la máquina. Las API, o interfaces de programación de aplicaciones, son cruciales para permitir que diferentes programas y servicios interactúen y compartan funcionalidades o datos. Por último, las librerías, que son colecciones de funciones y procedimientos preescritos, facilitan enormemente el proceso de desarrollo de software al ofrecer bloques de construcción estandarizados, lo que ahorra tiempo y esfuerzo en la programación. Estos tres elementos trabajan conjuntamente para crear un ecosistema robusto y eficiente, esencial para el desarrollo moderno de software y aplicaciones.
+            p.mb-0 Los sistemas operativos, las API y las librerías son componentes esenciales en el ámbito de la informática y la programación. Los sistemas operativos, como Windows, macOS o Linux, son fundamentales para gestionar los recursos del <i>hardware</i> y proporcionar una interfaz entre los usuarios y la máquina. Las API, o interfaces de programación de aplicaciones, son cruciales para permitir que diferentes programas y servicios interactúen y compartan funcionalidades o datos. Por último, las librerías, que son colecciones de funciones y procedimientos preescritos, facilitan enormemente el proceso de desarrollo de <i>software</i> al ofrecer bloques de construcción estandarizados, lo que ahorra tiempo y esfuerzo en la programación. Estos tres elementos trabajan conjuntamente para crear un ecosistema robusto y eficiente, esencial para el desarrollo moderno de <i>software</i> y aplicaciones.
           .col-lg-5.col-8: img(src='@/assets/curso/temas/1.png', alt='')
       .adorno--1.d-none.d-lg-block: img(src='@/assets/curso/temas/adorno1.png', alt='')
     Separador
@@ -90,7 +90,7 @@
                         .col-auto
                           img(src='@/assets/curso/temas/4.svg', style='max-width:74px').mx-auto
                         .col
-                          span Por ejemplo, Windows 10 y Windows Server 2019 incluyen capacidades avanzadas de red. Aunque el concepto de NOS sigue siendo relevante en dispositivos de red como enrutadores, conmutadores y firewalls, donde fabricantes como Cisco utilizan NOS propietarios como Cisco Internetwork Operating System (IOS), RouterOS y ZyNOS.
+                          span Por ejemplo, Windows 10 y Windows Server 2019 incluyen capacidades avanzadas de red. Aunque el concepto de NOS sigue siendo relevante en dispositivos de red como enrutadores, conmutadores y <i>firewalls</i>, donde fabricantes como Cisco utilizan NOS propietarios como <i>Cisco Internetwork Operating System</i> (IOS), RouterOS y ZyNOS.
 
 
               .col-lg-3: img(src='@/assets/curso/temas/6.svg', alt='', style='max-width: 295px').mx-auto
@@ -113,14 +113,14 @@
       .contenido
         .row
           .col-lg-9.mb-4.mb-md-0
-            p.mb-4 API significa “interfaz de programación de aplicaciones”. (Application Program Interface) En el contexto de las API, la palabra aplicación se refiere a cualquier software con una función distinta. La interfaz puede considerarse como un “contrato” de servicio entre dos aplicaciones. Este “contrato” define cómo se comunican entre sí mediante solicitudes y respuestas. La documentación de su API contiene información sobre cómo los desarrolladores deben estructurar esas solicitudes y respuestas. Las API son mecanismos que permiten a dos componentes de software comunicarse entre sí mediante un conjunto de definiciones y protocolos.
+            p.mb-4 API significa “interfaz de programación de aplicaciones”. <i>(Application Program Interface)</i> En el contexto de las API, la palabra aplicación se refiere a cualquier <i>software</i> con una función distinta. La interfaz puede considerarse como un “contrato” de servicio entre dos aplicaciones. Este “contrato” define cómo se comunican entre sí mediante solicitudes y respuestas. La documentación de su API contiene información sobre cómo los desarrolladores deben estructurar esas solicitudes y respuestas. Las API son mecanismos que permiten a dos componentes de <i>software</i> comunicarse entre sí mediante un conjunto de definiciones y protocolos.
 
             .tarjeta.p-4.color-acento-contenido
               .row
                 .col-auto
                   img(src='@/assets/curso/temas/9.svg', style='max-width:85px').mx-auto
                 .col
-                  p.mb-0 Por ejemplo, el sistema de software del instituto de meteorología contiene datos meteorológicos diarios. La aplicación meteorológica de su teléfono “habla” con este sistema a través de las API y le muestra las actualizaciones meteorológicas diarias en su teléfono.
+                  p.mb-0 Por ejemplo, el sistema de <i>software</i> del instituto de meteorología contiene datos meteorológicos diarios. La aplicación meteorológica de su teléfono “habla” con este sistema a través de las API y le muestra las actualizaciones meteorológicas diarias en su teléfono.
 
           .col-lg-3
             img(src='@/assets/curso/temas/8.png', style='max-width:295px').mx-auto
@@ -162,7 +162,7 @@
                 .row
                   .col-md-6.mb-4.mb-md-0
                     h4 API de #[em WebSocket]
-                    p La API de WebSocket es otro desarrollo moderno de la API web que utiliza objetos JSON para transmitir datos. La API de WebSocket admite la comunicación bidireccional entre las aplicaciones cliente y el servidor. El servidor puede enviar mensajes de devolución de llamada a los clientes conectados, por lo que es más eficiente que la API de REST.
+                    p La API de <i>WebSocket</i> es otro desarrollo moderno de la API web que utiliza objetos JSON para transmitir datos. La API de <i>WebSocket</i> admite la comunicación bidireccional entre las aplicaciones cliente y el servidor. El servidor puede enviar mensajes de devolución de llamada a los clientes conectados, por lo que es más eficiente que la API de REST.
 
                   .col-md-6
                     figure
@@ -185,7 +185,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3  Motores para videojuegos multiplataforma
 
-    p.mb-5 Los motores para videojuegos multiplataforma son herramientas de desarrollo de software diseñadas para crear videojuegos que se pueden ejecutar en varios sistemas operativos y dispositivos, como PC, consolas y dispositivos móviles. Algunos de los motores de videojuegos multiplataforma más populares incluyen:
+    p.mb-5 Los motores para videojuegos multiplataforma son herramientas de desarrollo de <i>software</i> diseñadas para crear videojuegos que se pueden ejecutar en varios sistemas operativos y dispositivos, como PC, consolas y dispositivos móviles. Algunos de los motores de videojuegos multiplataforma más populares incluyen:
 
     .row.mb-5
       .col-lg-9
@@ -259,7 +259,7 @@
           div(titulo="Harfang")
             p Una plataforma de alto nivel para la creación de aplicaciones 2D y 3D. Ofrece un amplio conjunto de características para gráficos, física y más, ideal para proyectos más avanzados.
 
-            a(href='https://www.harfang3d.com/en_US /', target='_blank') #[span.resaltado https://www.harfang3d.com/en_US /]
+            a(href='https://www.harfang3d.com/en_US /', target='_blank') #[span.resaltado https://www.harfang3d.com/en_US/]
 
           div(titulo="Ren’Py")
             p Especializado en la creación de novelas visuales y juegos basados en narrativas. Es muy popular entre los desarrolladores de novelas visuales por su facilidad de uso y flexibilidad.
@@ -349,7 +349,7 @@
         .col-lg-auto
           img(src='@/assets/curso/temas/15.svg', alt='', style='max-width: 85px')
         .col
-          p.mb-0.text-white Estos motores varían en términos de capacidades gráficas, facilidad de uso, y modelos de licencia, pero todos ofrecen la capacidad de desarrollar juegos para múltiples plataformas, lo que es esencial en el mercado de juegos actual.
+          p.mb-0.text-white Estas bibliotecas y herramientas varían en términos de capacidades gráficas, facilidad de uso y enfoque (2D vs 3D), pero todas ofrecen potentes opciones para desarrollar juegos accesibles a través de navegadores web.
 
 
     Separador

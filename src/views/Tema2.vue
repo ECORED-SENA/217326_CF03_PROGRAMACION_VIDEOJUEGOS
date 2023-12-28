@@ -35,7 +35,7 @@
               img(src='@/assets/curso/temas/22.png', alt='').mx-auto
 
 
-        p Si el videojuego que se quiere construir tiene como esencia ser orientada a Realidad Virtual, aumentada o Mixta igualmente debe considerarse las diferentes marcas y tecnologías disponibles en el mercado que permitan al usuario tener una buena experiencia en el momento de utilizar este tipo de tecnologías.
+        p Si el videojuego que se quiere construir tiene como esencia ser orientado a Realidad Virtual, aumentada o mixta, igualmente debe considerarse las diferentes marcas y tecnologías disponibles en el mercado que permitan al usuario tener una buena experiencia en el momento de utilizarlas.
 
 </template>
 
