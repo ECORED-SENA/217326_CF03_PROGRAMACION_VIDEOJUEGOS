@@ -256,9 +256,9 @@
             a(href='https://docs.panda3d.org/1.10/python/index', target='_blank') #[span.resaltado https://docs.panda3d.org/1.10/python/index]
 
           div(titulo="Harfang")
-            p Una plataforma de alto nivel para la creación de aplicaciones 2D y 3D. Ofrece un amplio conjunto de características para gráficos, física y más, ideal para proyectos más avanzados.
+            p Una plataforma de alto nivel para la creación de aplicaciones 2D y 3D. Ofrece un amplio conjunto de características para gráficos, física y más, ideal para proyectos avanzados.
 
-            a(href='https://www.harfang3d.com/en_US /', target='_blank') #[span.resaltado https://www.harfang3d.com/en_US/]
+            a(href='https://www.harfang3d.com/en_US/', target='_blank') #[span.resaltado https://www.harfang3d.com/en_US/]
 
           div(titulo="Ren’Py")
             p Especializado en la creación de novelas visuales y juegos basados en narrativas. Es muy popular entre los desarrolladores de novelas visuales por su facilidad de uso y flexibilidad.
