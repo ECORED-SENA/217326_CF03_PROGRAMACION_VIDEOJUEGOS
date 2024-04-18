@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Repositorios GIT
+      h1 Repositorios Git
 
     .row
       .col-lg-7
-        p Los repositorios GIT son una parte esencial del sistema de control de versiones Git, utilizado en el desarrollo de <i>software</i> para manejar el código fuente. Cada repositorio Git contiene todo el historial de cambios del proyecto, conocidos como <i>commits</i>, así como las distintas ramas y etiquetas. Estas características permiten a los desarrolladores registrar cada cambio en los archivos, trabajar en distintas características de forma aislada mediante las ramas, y marcar versiones específicas del proyecto con etiquetas. Su naturaleza distribuida significa que cada desarrollador trabaja con una copia completa del repositorio, facilitando la colaboración y el seguimiento detallado de los cambios.
+        p Los repositorios Git son una parte esencial del sistema de control de versiones Git, utilizado en el desarrollo de <i>software</i> para manejar el código fuente. Cada repositorio Git contiene todo el historial de cambios del proyecto, conocidos como <i>commits</i>, así como las distintas ramas y etiquetas. Estas características permiten a los desarrolladores registrar cada cambio en los archivos, trabajar en distintas características de forma aislada mediante las ramas, y marcar versiones específicas del proyecto con etiquetas. Su naturaleza distribuida significa que cada desarrollador trabaja con una copia completa del repositorio, facilitando la colaboración y el seguimiento detallado de los cambios.
 
         p Además de almacenar el código y su historial, los repositorios Git apoyan en la colaboración entre desarrolladores y en el seguimiento de errores o <i>bugs</i>. Plataformas de alojamiento como GitHub, GitLab y Bitbucket extienden las funcionalidades de Git, proporcionando herramientas para la revisión de código, la gestión de proyectos y la colaboración en equipo. Estos repositorios son indispensables en el mundo del desarrollo de <i>software</i>, ofreciendo un control detallado y eficiente sobre las diferentes versiones y cambios realizados en un proyecto.
 
@@ -59,12 +59,12 @@
     Separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.2 Definición de GIT
+      h2 3.2 Definición de Git
 
 
     .mn.p-5.adorno(style="background-color:#DCDEFA").mb-5
       .contenido
-        p.mb-4 GIT es una plataforma de desarrollo de <i>software</i> en línea. Se utiliza para almacenar, rastrear y colaborar en proyectos de <i>software</i>. Los usuarios de GIT crean cuentas, cargan archivos y crean proyectos de codificación, permitiendo, de esta manera, que los usuarios comienzan a colaborar.
+        p.mb-4 Git es una plataforma de desarrollo de <i>software</i> en línea. Se utiliza para almacenar, rastrear y colaborar en proyectos de <i>software</i>. Los usuarios de Git crean cuentas, cargan archivos y crean proyectos de codificación, permitiendo, de esta manera, que los usuarios comienzan a colaborar.
         .row.justify-content-center.align-items-center
           .col-lg-5.col-8: img(src='@/assets/curso/temas/25.svg', alt='')
           .col-lg-7.mb-lg-0.mb-3
@@ -82,14 +82,14 @@
     Separador
 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.3 Configuración de GIT
+      h2 3.3 Configuración de Git
 
     p Desde la instalación de Git hasta la creación de su primer repositorio en GitHub, a continuación, se proporcionará los conocimientos básicos necesarios para comenzar. Siga estos pasos para embarcarse en su viaje hacia una gestión de proyectos de <i>software</i> exitosa y eficiente.
 
     .row.mb-5
       .col-lg-7
         LineaTiempoD.color-acento-botones
-          div(numero="1" titulo="Instalar GIT")
+          div(numero="1" titulo="Instalar Git")
             p.text-small Instale la última versión de Git en su dispositivo. Necesitará tener Git instalado para funcionar con su repositorio de GitHub. Hay varias formas de hacerlo, así que siga las recomendaciones del sitio web de Git. El <i>software</i> Git es gratuito.
 
           div(numero="2" titulo="Regístrese en GitHub")
@@ -134,8 +134,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Curso GIT y GITHUB
-                  p.text-small Para obtener una visión más detallada de la instalación, puede revisarla en el siguiente enlace Curso GIT y GITHUB.
+                  h3.mb-1 Curso Git y GITHUB
+                  p.text-small Para obtener una visión más detallada de la instalación, puede revisarla en el siguiente enlace Curso Git y GITHUB.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW" target="_blank")
                     span Abrir enlace

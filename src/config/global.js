@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'API de videojuegos y repositorios',
     descripcionCurso:
-      'Durante el desarrollo de este componente formativo, el aprendiz aprenderá los conceptos de API y su relación con el desarrollo de videojuegos. Asimismo, conocerá cuáles son los dispositivos que se pueden utilizar como entrada y/o salida para que el usuario interactúe con ellos. Además, como tema final, se explicará qué es el versionamiento en <i>software</i> y cómo se manejan los repositorios basados en GIT.',
+      'Durante el desarrollo de este componente formativo, el aprendiz aprenderá los conceptos de API y su relación con el desarrollo de videojuegos. Asimismo, conocerá cuáles son los dispositivos que se pueden utilizar como entrada y/o salida para que el usuario interactúe con ellos. Además, como tema final, se explicará qué es el versionamiento en <i>software</i> y cómo se manejan los repositorios basados en Git.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -89,7 +89,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Repositorios GIT',
+        titulo: 'Repositorios Git',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -99,12 +99,12 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Definición de GIT',
+            titulo: 'Definición de Git',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Configuración de GIT',
+            titulo: 'Configuración de Git',
             hash: 't_3_3',
           },
           {
@@ -191,9 +191,9 @@ export default {
       link: 'https://www.youtube.com/watch?v=SZpz-Sd326M&list=PLCWlDaiO',
     },
     {
-      tema: 'Configuración de GIT',
+      tema: 'Configuración de Git',
       referencia:
-        'Todo code. (2021). Curso GIT y GITHUB - Tutorial desde CERO. Youtube.',
+        'Todo code. (2021). Curso Git y GITHUB - Tutorial desde CERO. Youtube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW',
@@ -216,7 +216,7 @@ export default {
         'es un pequeño dispositivo de computación portátil que generalmente incluye una pantalla y un método de entrada (ya sea táctil o teclado en miniatura). Muchos dispositivos móviles tienen sistemas operativos que pueden ejecutar aplicaciones. Las aplicaciones hacen posible que los dispositivos móviles y teléfonos celulares se utilicen como dispositivos para juegos, reproductores multimedia, calculadoras, navegadores, etc.',
     },
     {
-      termino: 'GIT',
+      termino: 'Git',
       significado:
         'Git es un sistema de control de versiones distribuido que te permite registrar los cambios que haces en tus archivos y volver a versiones anteriores si algo sale mal. Fue diseñado por Linus Torvalds para garantizar la eficiencia y confiabilidad del mantenimiento de versiones de aplicaciones que tienen un gran número de archivos de código fuente.',
     },
@@ -312,7 +312,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Carmen Alicia Martinez Torres ',
+          nombre: 'Carmen Alicia Martínez Torres ',
           cargo: 'Animador y Productor Multimedia',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
